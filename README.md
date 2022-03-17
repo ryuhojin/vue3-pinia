@@ -1,14 +1,7 @@
-# vue-project
+## vue-pinia
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+> vue3-pinia 샘플코드 제공을 위한 초 간단 테스트 화면입니다.<br/>
+> Compositio API로 작업되어 있습니다. 다들 즐거운 공부되세요.
 
 ## Project Setup
 
